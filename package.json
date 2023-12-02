@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rahuldahal/websockets/issues"
   },
-  "homepage": "https://github.com/rahuldahal/websockets#readme"
+  "homepage": "https://github.com/rahuldahal/websockets#readme",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
 }
