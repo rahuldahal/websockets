@@ -1,0 +1,22 @@
+{
+  "name": "websockets",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Very simple demo of websockets with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahuldahal/websockets.git"
+  },
+  "keywords": [],
+  "author": "Rahul Dahal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahuldahal/websockets/issues"
+  },
+  "homepage": "https://github.com/rahuldahal/websockets#readme"
+}
